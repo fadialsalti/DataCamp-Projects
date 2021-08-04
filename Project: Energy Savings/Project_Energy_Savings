@@ -1,1 +1,16 @@
 
+Instructions
+The Singapore government has asked you to help them determine how much energy they have saved per year by recycling. You need to answer the following question:
+
+How much energy in kiloWatt hour (kWh) has Singapore saved per year by recycling glass, plastic, ferrous, and non-ferrous metals between 2015 and 2019?
+
+Save your answer as a DataFrame named annual_energy_savings with the an index labelled year. Your DataFrame should consist of one column, 
+total_energy_saved, which contains the total amount of energy in kWh saved per year across the four materials described above. It should resemble the following table:
+
+total_energy_saved
+year	
+2015	xxxx
+2016	xxxx
+2017	xxxx
+2018	xxxx
+2019	xxxx
